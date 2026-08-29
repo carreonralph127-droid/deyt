@@ -10,10 +10,7 @@ This project lets you send a creative "date invitation" online, with playful but
 - 📱 Responsive layout (works on mobile and desktop)
 
 ## Screenshots
-![Date Invitation Screenshot]()
-
-## View Code
-🔓 [See the source code](https://carreonralph127-droid.github.io/deyt/)
+![Date Invitation Screenshot](https://github.com/user-attachments/assets/b58c367c-f235-47b8-ad4a-951a87a223c8)
 
 ## How to Run Locally  
 1. Clone the repo:
